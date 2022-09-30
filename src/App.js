@@ -35,11 +35,11 @@ function App() {
       <Navbar toggleDropDownMenu={toggleDropDownMenu}/>
       <Switch>
         <Route path='/' exact component={Home}/>
-        <Route path='/about_us' component={AboutUs}/>
-        <Route path='/menu' component={Menu}/>
-        <Route path='/contact' component={Contact} />
-        <Route path='/place_detail' component={PlaceDetail}/>
-        <Route path='/booking_history' component={BookingHistory}/>
+        <Route path='/about_us' exact component={AboutUs}/>
+        <Route path='/menu' exact component={Menu}/>
+        <Route path='/contact' exact component={Contact} />
+        <Route path='/place_detail' exact component={PlaceDetail}/>
+        <Route path='/booking_history' exact component={BookingHistory}/>
       </Switch>
       <Footer />
     </>
