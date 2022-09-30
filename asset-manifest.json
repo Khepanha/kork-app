@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kork-app/static/css/main.8b83c529.chunk.css",
-    "main.js": "/kork-app/static/js/main.5ea1e589.chunk.js",
-    "main.js.map": "/kork-app/static/js/main.5ea1e589.chunk.js.map",
+    "main.js": "/kork-app/static/js/main.fad1eaac.chunk.js",
+    "main.js.map": "/kork-app/static/js/main.fad1eaac.chunk.js.map",
     "runtime-main.js": "/kork-app/static/js/runtime-main.04536be0.js",
     "runtime-main.js.map": "/kork-app/static/js/runtime-main.04536be0.js.map",
     "static/js/2.6294d579.chunk.js": "/kork-app/static/js/2.6294d579.chunk.js",
@@ -51,6 +51,6 @@
     "static/js/runtime-main.04536be0.js",
     "static/js/2.6294d579.chunk.js",
     "static/css/main.8b83c529.chunk.css",
-    "static/js/main.5ea1e589.chunk.js"
+    "static/js/main.fad1eaac.chunk.js"
   ]
 }
